@@ -17,4 +17,12 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/vatsalakhmani/DSA/tree/master/0191-number-of-1-bits) |
+## Math
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/vatsalakhmani/DSA/tree/master/0367-valid-perfect-square) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/vatsalakhmani/DSA/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
