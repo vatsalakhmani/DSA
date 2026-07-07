@@ -11,6 +11,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vatsalakhmani/DSA/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/vatsalakhmani/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/vatsalakhmani/DSA/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
@@ -56,4 +57,8 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/vatsalakhmani/DSA/tree/master/0242-valid-anagram) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/vatsalakhmani/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
