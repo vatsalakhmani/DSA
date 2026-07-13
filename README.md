@@ -42,6 +42,7 @@
 | [0283-move-zeroes](https://github.com/vatsalakhmani/DSA/tree/master/0283-move-zeroes) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vatsalakhmani/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/vatsalakhmani/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/vatsalakhmani/DSA/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2460-apply-operations-to-an-array](https://github.com/vatsalakhmani/DSA/tree/master/2460-apply-operations-to-an-array) |
 ## Simulation
 |  |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/vatsalakhmani/DSA/tree/master/0242-valid-anagram) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/vatsalakhmani/DSA/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Stack
 |  |
 | ------- |
