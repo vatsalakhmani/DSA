@@ -95,4 +95,12 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/vatsalakhmani/DSA/tree/master/1291-sequential-digits) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/vatsalakhmani/DSA/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/vatsalakhmani/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
