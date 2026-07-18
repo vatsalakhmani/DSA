@@ -15,6 +15,7 @@
 | [0020-valid-parentheses](https://github.com/vatsalakhmani/DSA/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/vatsalakhmani/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/vatsalakhmani/DSA/tree/master/0242-valid-anagram) |
+| [2390-removing-stars-from-a-string](https://github.com/vatsalakhmani/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/vatsalakhmani/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/vatsalakhmani/DSA/tree/master/2460-apply-operations-to-an-array) |
 ## Hash Table
 |  |
@@ -71,6 +73,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vatsalakhmani/DSA/tree/master/0020-valid-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/vatsalakhmani/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
