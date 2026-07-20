@@ -73,6 +73,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vatsalakhmani/DSA/tree/master/0020-valid-parentheses) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/vatsalakhmani/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/vatsalakhmani/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Dynamic Programming
 |  |
@@ -98,9 +99,22 @@
 ## Linked List
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/vatsalakhmani/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0206-reverse-linked-list](https://github.com/vatsalakhmani/DSA/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/vatsalakhmani/DSA/tree/master/0206-reverse-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/vatsalakhmani/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/vatsalakhmani/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Binary Tree
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/vatsalakhmani/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
