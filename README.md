@@ -109,12 +109,19 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vatsalakhmani/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/vatsalakhmani/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vatsalakhmani/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/vatsalakhmani/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vatsalakhmani/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/vatsalakhmani/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/vatsalakhmani/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 <!---LeetCode Topics End-->
