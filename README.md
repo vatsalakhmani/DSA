@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/vatsalakhmani/DSA/tree/master/0191-number-of-1-bits) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/vatsalakhmani/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Math
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 | [0069-sqrtx](https://github.com/vatsalakhmani/DSA/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/vatsalakhmani/DSA/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/vatsalakhmani/DSA/tree/master/0633-sum-of-square-numbers) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/vatsalakhmani/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -49,6 +51,7 @@
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/vatsalakhmani/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/vatsalakhmani/DSA/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2460-apply-operations-to-an-array](https://github.com/vatsalakhmani/DSA/tree/master/2460-apply-operations-to-an-array) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/vatsalakhmani/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Simulation
 |  |
 | ------- |
