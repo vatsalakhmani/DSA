@@ -15,6 +15,7 @@
 | [0020-valid-parentheses](https://github.com/vatsalakhmani/DSA/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/vatsalakhmani/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/vatsalakhmani/DSA/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/vatsalakhmani/DSA/tree/master/0389-find-the-difference) |
 | [2390-removing-stars-from-a-string](https://github.com/vatsalakhmani/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Divide and Conquer
 |  |
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/vatsalakhmani/DSA/tree/master/0191-number-of-1-bits) |
+| [0389-find-the-difference](https://github.com/vatsalakhmani/DSA/tree/master/0389-find-the-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vatsalakhmani/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Math
 |  |
@@ -62,6 +64,7 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/vatsalakhmani/DSA/tree/master/0041-first-missing-positive) |
 | [0242-valid-anagram](https://github.com/vatsalakhmani/DSA/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/vatsalakhmani/DSA/tree/master/0389-find-the-difference) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/vatsalakhmani/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 ## Prefix Sum
 |  |
@@ -72,6 +75,7 @@
 | ------- |
 | [0018-4sum](https://github.com/vatsalakhmani/DSA/tree/master/0018-4sum) |
 | [0242-valid-anagram](https://github.com/vatsalakhmani/DSA/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/vatsalakhmani/DSA/tree/master/0389-find-the-difference) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/vatsalakhmani/DSA/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Stack
 |  |
