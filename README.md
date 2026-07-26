@@ -34,6 +34,7 @@
 | [0050-powx-n](https://github.com/vatsalakhmani/DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/vatsalakhmani/DSA/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/vatsalakhmani/DSA/tree/master/0367-valid-perfect-square) |
+| [0628-maximum-product-of-three-numbers](https://github.com/vatsalakhmani/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/vatsalakhmani/DSA/tree/master/0633-sum-of-square-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vatsalakhmani/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/vatsalakhmani/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -50,6 +51,7 @@
 | [0041-first-missing-positive](https://github.com/vatsalakhmani/DSA/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/vatsalakhmani/DSA/tree/master/0045-jump-game-ii) |
 | [0283-move-zeroes](https://github.com/vatsalakhmani/DSA/tree/master/0283-move-zeroes) |
+| [0628-maximum-product-of-three-numbers](https://github.com/vatsalakhmani/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vatsalakhmani/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/vatsalakhmani/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/vatsalakhmani/DSA/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -77,6 +79,7 @@
 | [0018-4sum](https://github.com/vatsalakhmani/DSA/tree/master/0018-4sum) |
 | [0242-valid-anagram](https://github.com/vatsalakhmani/DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/vatsalakhmani/DSA/tree/master/0389-find-the-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/vatsalakhmani/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/vatsalakhmani/DSA/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [3536-maximum-product-of-two-digits](https://github.com/vatsalakhmani/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Stack
