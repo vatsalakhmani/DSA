@@ -41,6 +41,7 @@
 | [0633-sum-of-square-numbers](https://github.com/vatsalakhmani/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/vatsalakhmani/DSA/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vatsalakhmani/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/vatsalakhmani/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vatsalakhmani/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/vatsalakhmani/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
@@ -123,6 +124,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/vatsalakhmani/DSA/tree/master/1291-sequential-digits) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/vatsalakhmani/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Linked List
 |  |
 | ------- |
