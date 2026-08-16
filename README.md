@@ -54,6 +54,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vatsalakhmani/DSA/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/vatsalakhmani/DSA/tree/master/0018-4sum) |
 | [0041-first-missing-positive](https://github.com/vatsalakhmani/DSA/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/vatsalakhmani/DSA/tree/master/0045-jump-game-ii) |
@@ -77,6 +78,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vatsalakhmani/DSA/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/vatsalakhmani/DSA/tree/master/0041-first-missing-positive) |
 | [0242-valid-anagram](https://github.com/vatsalakhmani/DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/vatsalakhmani/DSA/tree/master/0389-find-the-difference) |
