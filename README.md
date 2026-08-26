@@ -4,6 +4,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/vatsalakhmani/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vatsalakhmani/DSA/tree/master/0018-4sum) |
 | [0151-reverse-words-in-a-string](https://github.com/vatsalakhmani/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/vatsalakhmani/DSA/tree/master/0283-move-zeroes) |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vatsalakhmani/DSA/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/vatsalakhmani/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vatsalakhmani/DSA/tree/master/0018-4sum) |
 | [0041-first-missing-positive](https://github.com/vatsalakhmani/DSA/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/vatsalakhmani/DSA/tree/master/0045-jump-game-ii) |
@@ -100,6 +102,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/vatsalakhmani/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vatsalakhmani/DSA/tree/master/0018-4sum) |
 | [0242-valid-anagram](https://github.com/vatsalakhmani/DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/vatsalakhmani/DSA/tree/master/0389-find-the-difference) |
