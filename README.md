@@ -7,6 +7,7 @@
 | [0015-3sum](https://github.com/vatsalakhmani/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vatsalakhmani/DSA/tree/master/0018-4sum) |
 | [0151-reverse-words-in-a-string](https://github.com/vatsalakhmani/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vatsalakhmani/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/vatsalakhmani/DSA/tree/master/0283-move-zeroes) |
 | [0633-sum-of-square-numbers](https://github.com/vatsalakhmani/DSA/tree/master/0633-sum-of-square-numbers) |
 | [2460-apply-operations-to-an-array](https://github.com/vatsalakhmani/DSA/tree/master/2460-apply-operations-to-an-array) |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/vatsalakhmani/DSA/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vatsalakhmani/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0367-valid-perfect-square](https://github.com/vatsalakhmani/DSA/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/vatsalakhmani/DSA/tree/master/0633-sum-of-square-numbers) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vatsalakhmani/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -63,6 +65,7 @@
 | [0018-4sum](https://github.com/vatsalakhmani/DSA/tree/master/0018-4sum) |
 | [0041-first-missing-positive](https://github.com/vatsalakhmani/DSA/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/vatsalakhmani/DSA/tree/master/0045-jump-game-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vatsalakhmani/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/vatsalakhmani/DSA/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vatsalakhmani/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vatsalakhmani/DSA/tree/master/0628-maximum-product-of-three-numbers) |
