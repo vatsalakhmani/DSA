@@ -6,6 +6,7 @@
 | ------- |
 | [0015-3sum](https://github.com/vatsalakhmani/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vatsalakhmani/DSA/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/vatsalakhmani/DSA/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/vatsalakhmani/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vatsalakhmani/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/vatsalakhmani/DSA/tree/master/0283-move-zeroes) |
@@ -65,6 +66,7 @@
 | [0018-4sum](https://github.com/vatsalakhmani/DSA/tree/master/0018-4sum) |
 | [0041-first-missing-positive](https://github.com/vatsalakhmani/DSA/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/vatsalakhmani/DSA/tree/master/0045-jump-game-ii) |
+| [0075-sort-colors](https://github.com/vatsalakhmani/DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vatsalakhmani/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/vatsalakhmani/DSA/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vatsalakhmani/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -109,6 +111,7 @@
 | ------- |
 | [0015-3sum](https://github.com/vatsalakhmani/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vatsalakhmani/DSA/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/vatsalakhmani/DSA/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/vatsalakhmani/DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/vatsalakhmani/DSA/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vatsalakhmani/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -202,4 +205,12 @@
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vatsalakhmani/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vatsalakhmani/DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vatsalakhmani/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
