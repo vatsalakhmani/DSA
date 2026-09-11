@@ -84,6 +84,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vatsalakhmani/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vatsalakhmani/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vatsalakhmani/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3483-unique-3-digit-even-numbers](https://github.com/vatsalakhmani/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vatsalakhmani/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vatsalakhmani/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/vatsalakhmani/DSA/tree/master/3731-find-missing-elements) |
@@ -104,6 +105,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vatsalakhmani/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vatsalakhmani/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vatsalakhmani/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3483-unique-3-digit-even-numbers](https://github.com/vatsalakhmani/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vatsalakhmani/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/vatsalakhmani/DSA/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
@@ -155,6 +157,7 @@
 | ------- |
 | [1291-sequential-digits](https://github.com/vatsalakhmani/DSA/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vatsalakhmani/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/vatsalakhmani/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Linked List
 |  |
 | ------- |
@@ -165,6 +168,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/vatsalakhmani/DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/vatsalakhmani/DSA/tree/master/0206-reverse-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/vatsalakhmani/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Tree
 |  |
 | ------- |
