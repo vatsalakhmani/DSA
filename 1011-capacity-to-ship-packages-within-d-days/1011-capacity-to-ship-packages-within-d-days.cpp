@@ -1,28 +1,28 @@
 class Solution {
 public:
+    int days_required(vector<int>& weights,int cap){
+        int days=1,load=0;
+        for(int i=0;i<weights.size();i++){
+            if(load+weights[i]>cap){
+                load=weights[i];
+                days=days+1;
+            }
+            else load+=weights[i];
+        }
+        return days;
+    }
     int shipWithinDays(vector<int>& weights, int days) {
-        int maxWeight = -1, totalWeight = 0;
-        for (int weight : weights) {
-            maxWeight = max(maxWeight, weight);
-            totalWeight = totalWeight + weight;
-        }
-        //here weight and total weight work as left and right pointer of bunary search
-        while (maxWeight < totalWeight) {
-            int midWeight = maxWeight + (totalWeight - maxWeight) / 2;
-            int daysNeeded = 1, currWeight = 0;
-            for (int weight : weights) {
-                if (currWeight + weight > midWeight) {
-                    daysNeeded++;
-                    currWeight = 0;
-                }
-                currWeight = currWeight + weight;
+        int low=*max_element(weights.begin(),weights.end());
+        int high=accumulate(weights.begin(),weights.end(),0);
+        int mid;
+        while(low<=high){
+            mid=low+(high-low)/2;
+            int days_req=days_required(weights,mid);
+            if(days_req<=days){
+                high=mid-1;
             }
-            if (daysNeeded > days) {
-                maxWeight = midWeight + 1;
-            } else {
-                totalWeight = midWeight;
-            }
+            else low=mid+1;
         }
-        return maxWeight;
+        return low;
     }
 };
