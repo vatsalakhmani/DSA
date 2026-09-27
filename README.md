@@ -54,6 +54,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/vatsalakhmani/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/vatsalakhmani/DSA/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vatsalakhmani/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0367-valid-perfect-square](https://github.com/vatsalakhmani/DSA/tree/master/0367-valid-perfect-square) |
@@ -68,6 +69,7 @@
 | [0001-two-sum](https://github.com/vatsalakhmani/DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/vatsalakhmani/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vatsalakhmani/DSA/tree/master/0018-4sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/vatsalakhmani/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/vatsalakhmani/DSA/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/vatsalakhmani/DSA/tree/master/0045-jump-game-ii) |
 | [0056-merge-intervals](https://github.com/vatsalakhmani/DSA/tree/master/0056-merge-intervals) |
