@@ -20,6 +20,7 @@
 | [0242-valid-anagram](https://github.com/vatsalakhmani/DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/vatsalakhmani/DSA/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/vatsalakhmani/DSA/tree/master/0520-detect-capital) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vatsalakhmani/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/vatsalakhmani/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vatsalakhmani/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vatsalakhmani/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -139,6 +140,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/vatsalakhmani/DSA/tree/master/0020-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vatsalakhmani/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vatsalakhmani/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/vatsalakhmani/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Dynamic Programming
 |  |
@@ -233,4 +235,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/vatsalakhmani/DSA/tree/master/0836-rectangle-overlap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vatsalakhmani/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
