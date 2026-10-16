@@ -21,6 +21,7 @@
 | [0242-valid-anagram](https://github.com/vatsalakhmani/DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/vatsalakhmani/DSA/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/vatsalakhmani/DSA/tree/master/0520-detect-capital) |
+| [1143-longest-common-subsequence](https://github.com/vatsalakhmani/DSA/tree/master/1143-longest-common-subsequence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vatsalakhmani/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/vatsalakhmani/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vatsalakhmani/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -155,6 +156,7 @@
 | [0045-jump-game-ii](https://github.com/vatsalakhmani/DSA/tree/master/0045-jump-game-ii) |
 | [0877-stone-game](https://github.com/vatsalakhmani/DSA/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vatsalakhmani/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [1143-longest-common-subsequence](https://github.com/vatsalakhmani/DSA/tree/master/1143-longest-common-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -247,4 +249,8 @@
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vatsalakhmani/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/vatsalakhmani/DSA/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
