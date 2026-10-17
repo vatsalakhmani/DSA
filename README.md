@@ -20,6 +20,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/vatsalakhmani/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/vatsalakhmani/DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/vatsalakhmani/DSA/tree/master/0389-find-the-difference) |
+| [0516-longest-palindromic-subsequence](https://github.com/vatsalakhmani/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/vatsalakhmani/DSA/tree/master/0520-detect-capital) |
 | [1143-longest-common-subsequence](https://github.com/vatsalakhmani/DSA/tree/master/1143-longest-common-subsequence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vatsalakhmani/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -154,6 +155,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/vatsalakhmani/DSA/tree/master/0045-jump-game-ii) |
+| [0516-longest-palindromic-subsequence](https://github.com/vatsalakhmani/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0877-stone-game](https://github.com/vatsalakhmani/DSA/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vatsalakhmani/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1143-longest-common-subsequence](https://github.com/vatsalakhmani/DSA/tree/master/1143-longest-common-subsequence) |
