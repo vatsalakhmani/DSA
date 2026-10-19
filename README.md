@@ -68,6 +68,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vatsalakhmani/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vatsalakhmani/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/vatsalakhmani/DSA/tree/master/1539-kth-missing-positive-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vatsalakhmani/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vatsalakhmani/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Array
 |  |
@@ -94,6 +95,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vatsalakhmani/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/vatsalakhmani/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/vatsalakhmani/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vatsalakhmani/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/vatsalakhmani/DSA/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2460-apply-operations-to-an-array](https://github.com/vatsalakhmani/DSA/tree/master/2460-apply-operations-to-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vatsalakhmani/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -142,6 +144,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/vatsalakhmani/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/vatsalakhmani/DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vatsalakhmani/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vatsalakhmani/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/vatsalakhmani/DSA/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vatsalakhmani/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vatsalakhmani/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
