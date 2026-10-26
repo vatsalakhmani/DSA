@@ -104,6 +104,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vatsalakhmani/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vatsalakhmani/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vatsalakhmani/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vatsalakhmani/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vatsalakhmani/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/vatsalakhmani/DSA/tree/master/3731-find-missing-elements) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/vatsalakhmani/DSA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -207,6 +208,7 @@
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vatsalakhmani/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/vatsalakhmani/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vatsalakhmani/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -267,4 +269,16 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vatsalakhmani/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vatsalakhmani/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Union-Find
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vatsalakhmani/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Matrix
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vatsalakhmani/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
