@@ -51,6 +51,7 @@
 | [0633-sum-of-square-numbers](https://github.com/vatsalakhmani/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/vatsalakhmani/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/vatsalakhmani/DSA/tree/master/0877-stone-game) |
+| [1137-n-th-tribonacci-number](https://github.com/vatsalakhmani/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vatsalakhmani/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vatsalakhmani/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vatsalakhmani/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -166,6 +167,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/vatsalakhmani/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0877-stone-game](https://github.com/vatsalakhmani/DSA/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vatsalakhmani/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [1137-n-th-tribonacci-number](https://github.com/vatsalakhmani/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/vatsalakhmani/DSA/tree/master/1143-longest-common-subsequence) |
 ## Greedy
 |  |
@@ -281,4 +283,8 @@
 |  |
 | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vatsalakhmani/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/vatsalakhmani/DSA/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
