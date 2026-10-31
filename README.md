@@ -87,6 +87,7 @@
 | [0238-product-of-array-except-self](https://github.com/vatsalakhmani/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/vatsalakhmani/DSA/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vatsalakhmani/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/vatsalakhmani/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vatsalakhmani/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/vatsalakhmani/DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0877-stone-game](https://github.com/vatsalakhmani/DSA/tree/master/0877-stone-game) |
@@ -122,6 +123,7 @@
 | [0242-valid-anagram](https://github.com/vatsalakhmani/DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/vatsalakhmani/DSA/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vatsalakhmani/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/vatsalakhmani/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/vatsalakhmani/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vatsalakhmani/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vatsalakhmani/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -133,6 +135,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/vatsalakhmani/DSA/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/vatsalakhmani/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/vatsalakhmani/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 ## Sorting
 |  |
