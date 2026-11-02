@@ -48,6 +48,7 @@
 | [0069-sqrtx](https://github.com/vatsalakhmani/DSA/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/vatsalakhmani/DSA/tree/master/0367-valid-perfect-square) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/vatsalakhmani/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vatsalakhmani/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vatsalakhmani/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/vatsalakhmani/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/vatsalakhmani/DSA/tree/master/0836-rectangle-overlap) |
@@ -89,6 +90,7 @@
 | [0283-move-zeroes](https://github.com/vatsalakhmani/DSA/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vatsalakhmani/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/vatsalakhmani/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vatsalakhmani/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/vatsalakhmani/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vatsalakhmani/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/vatsalakhmani/DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -149,6 +151,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/vatsalakhmani/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/vatsalakhmani/DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/vatsalakhmani/DSA/tree/master/0389-find-the-difference) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vatsalakhmani/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vatsalakhmani/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/vatsalakhmani/DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vatsalakhmani/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
