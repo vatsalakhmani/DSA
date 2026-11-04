@@ -57,6 +57,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vatsalakhmani/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vatsalakhmani/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vatsalakhmani/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vatsalakhmani/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vatsalakhmani/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/vatsalakhmani/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vatsalakhmani/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -110,6 +111,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vatsalakhmani/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vatsalakhmani/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vatsalakhmani/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vatsalakhmani/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vatsalakhmani/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vatsalakhmani/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vatsalakhmani/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -135,6 +137,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vatsalakhmani/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vatsalakhmani/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vatsalakhmani/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vatsalakhmani/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vatsalakhmani/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/vatsalakhmani/DSA/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
@@ -179,6 +182,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/vatsalakhmani/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1137-n-th-tribonacci-number](https://github.com/vatsalakhmani/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/vatsalakhmani/DSA/tree/master/1143-longest-common-subsequence) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vatsalakhmani/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Greedy
 |  |
 | ------- |
@@ -235,6 +239,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vatsalakhmani/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vatsalakhmani/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vatsalakhmani/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Counting Sort
 |  |
 | ------- |
@@ -248,6 +253,7 @@
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vatsalakhmani/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vatsalakhmani/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vatsalakhmani/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Combinatorics
 |  |
 | ------- |
