@@ -90,6 +90,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/vatsalakhmani/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/vatsalakhmani/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/vatsalakhmani/DSA/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/vatsalakhmani/DSA/tree/master/0322-coin-change) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vatsalakhmani/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/vatsalakhmani/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vatsalakhmani/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -177,6 +178,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/vatsalakhmani/DSA/tree/master/0045-jump-game-ii) |
+| [0322-coin-change](https://github.com/vatsalakhmani/DSA/tree/master/0322-coin-change) |
 | [0516-longest-palindromic-subsequence](https://github.com/vatsalakhmani/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0877-stone-game](https://github.com/vatsalakhmani/DSA/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vatsalakhmani/DSA/tree/master/0918-maximum-sum-circular-subarray) |
@@ -290,6 +292,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/vatsalakhmani/DSA/tree/master/0322-coin-change) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vatsalakhmani/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
@@ -303,4 +306,12 @@
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/vatsalakhmani/DSA/tree/master/1137-n-th-tribonacci-number) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/vatsalakhmani/DSA/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/vatsalakhmani/DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
