@@ -70,6 +70,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/vatsalakhmani/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/vatsalakhmani/DSA/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vatsalakhmani/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/vatsalakhmani/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0367-valid-perfect-square](https://github.com/vatsalakhmani/DSA/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/vatsalakhmani/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/vatsalakhmani/DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -92,6 +93,7 @@
 | [0056-merge-intervals](https://github.com/vatsalakhmani/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/vatsalakhmani/DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vatsalakhmani/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/vatsalakhmani/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vatsalakhmani/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/vatsalakhmani/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/vatsalakhmani/DSA/tree/master/0283-move-zeroes) |
@@ -152,6 +154,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/vatsalakhmani/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/vatsalakhmani/DSA/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/vatsalakhmani/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/vatsalakhmani/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -262,6 +265,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/vatsalakhmani/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vatsalakhmani/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vatsalakhmani/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vatsalakhmani/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
