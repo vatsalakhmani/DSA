@@ -34,6 +34,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vatsalakhmani/DSA/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/vatsalakhmani/DSA/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vatsalakhmani/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vatsalakhmani/DSA/tree/master/0918-maximum-sum-circular-subarray) |
@@ -93,6 +94,7 @@
 | [0056-merge-intervals](https://github.com/vatsalakhmani/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/vatsalakhmani/DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vatsalakhmani/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/vatsalakhmani/DSA/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/vatsalakhmani/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vatsalakhmani/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/vatsalakhmani/DSA/tree/master/0238-product-of-array-except-self) |
@@ -139,6 +141,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/vatsalakhmani/DSA/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/vatsalakhmani/DSA/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/vatsalakhmani/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/vatsalakhmani/DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/vatsalakhmani/DSA/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vatsalakhmani/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -165,6 +168,7 @@
 | [0018-4sum](https://github.com/vatsalakhmani/DSA/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/vatsalakhmani/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/vatsalakhmani/DSA/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/vatsalakhmani/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vatsalakhmani/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/vatsalakhmani/DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/vatsalakhmani/DSA/tree/master/0389-find-the-difference) |
@@ -257,6 +261,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vatsalakhmani/DSA/tree/master/0169-majority-element) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vatsalakhmani/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Game Theory
 |  |
@@ -331,4 +336,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vatsalakhmani/DSA/tree/master/0014-longest-common-prefix) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vatsalakhmani/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
