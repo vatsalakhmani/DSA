@@ -91,6 +91,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/vatsalakhmani/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/vatsalakhmani/DSA/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/vatsalakhmani/DSA/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/vatsalakhmani/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/vatsalakhmani/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/vatsalakhmani/DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vatsalakhmani/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -194,6 +195,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/vatsalakhmani/DSA/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/vatsalakhmani/DSA/tree/master/0055-jump-game) |
 | [0322-coin-change](https://github.com/vatsalakhmani/DSA/tree/master/0322-coin-change) |
 | [0516-longest-palindromic-subsequence](https://github.com/vatsalakhmani/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0877-stone-game](https://github.com/vatsalakhmani/DSA/tree/master/0877-stone-game) |
@@ -205,6 +207,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/vatsalakhmani/DSA/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/vatsalakhmani/DSA/tree/master/0055-jump-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vatsalakhmani/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Queue
 |  |
