@@ -58,6 +58,7 @@
 | [0836-rectangle-overlap](https://github.com/vatsalakhmani/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/vatsalakhmani/DSA/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/vatsalakhmani/DSA/tree/master/1137-n-th-tribonacci-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/vatsalakhmani/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vatsalakhmani/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vatsalakhmani/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vatsalakhmani/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -115,6 +116,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vatsalakhmani/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/vatsalakhmani/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/vatsalakhmani/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/vatsalakhmani/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vatsalakhmani/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/vatsalakhmani/DSA/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2460-apply-operations-to-an-array](https://github.com/vatsalakhmani/DSA/tree/master/2460-apply-operations-to-an-array) |
@@ -284,6 +286,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/vatsalakhmani/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vatsalakhmani/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Quicksort
 |  |
@@ -343,4 +346,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vatsalakhmani/DSA/tree/master/0169-majority-element) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/vatsalakhmani/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/vatsalakhmani/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
